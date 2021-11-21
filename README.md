@@ -2,8 +2,6 @@
 Object Oriented Programming
 Assignment 1
 
-322809559
-206664278
 
 Part One
 
